@@ -1,0 +1,16 @@
+[5_2_2021_13:53:22] {SEVERE} BOTSESSION - org.telegram.telegrambots.TelegramApiException: Error getting updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.updatesreceivers.BotSession$ReaderThread.run(BotSession.java:119)
+[5_2_2021_13:53:26] {SEVERE} BOTSESSION - org.telegram.telegrambots.TelegramApiException: Error getting updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.updatesreceivers.BotSession$ReaderThread.run(BotSession.java:119)
+[5_2_2021_13:53:30] {SEVERE} BOTSESSION - org.telegram.telegrambots.TelegramApiException: Error getting updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.updatesreceivers.BotSession$ReaderThread.run(BotSession.java:119)
+[5_2_2021_13:53:34] {SEVERE} BOTSESSION - org.telegram.telegrambots.TelegramApiException: Error getting updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.updatesreceivers.BotSession$ReaderThread.run(BotSession.java:119)
+[5_2_2021_13:53:38] {SEVERE} BOTSESSION - org.telegram.telegrambots.TelegramApiException: Error getting updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.updatesreceivers.BotSession$ReaderThread.run(BotSession.java:119)
+[5_2_2021_13:53:43] {SEVERE} BOTSESSION - org.telegram.telegrambots.TelegramApiException: Error getting updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.updatesreceivers.BotSession$ReaderThread.run(BotSession.java:119)
+[5_2_2021_13:53:47] {SEVERE} BOTSESSION - org.telegram.telegrambots.TelegramApiException: Error getting updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.updatesreceivers.BotSession$ReaderThread.run(BotSession.java:119)
+[5_2_2021_13:53:51] {SEVERE} BOTSESSION - org.telegram.telegrambots.TelegramApiException: Error getting updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.updatesreceivers.BotSession$ReaderThread.run(BotSession.java:119)
